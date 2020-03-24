@@ -35,3 +35,10 @@ Solve the problem and review it with mentor. Absolutely improve your code qualit
 **[Rosalind](http://rosalind.info/problems/list-view)**
 
 Rosalind is a platform for learning bioinformatics and programming through problem solving.
+
+**[Project Euler](https://projecteuler.net/)**
+
+Project Euler is a series of challenging mathematical/computer programming problems that will require more than just mathematical insights to solve
+
+
+
