@@ -32,3 +32,6 @@ Solve problems and hired by company. If you wanna IT job that's the right place.
 
 Solve the problem and review it with mentor. Absolutely improve your code quality.
 
+**[Rosalind](http://rosalind.info/problems/list-view)**
+
+Rosalind is a platform for learning bioinformatics and programming through problem solving.
